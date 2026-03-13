@@ -24,10 +24,12 @@ ODO%,%,water_DO_%
 %,Saturation O₂ (% sat),water_DO_%
 ODO,%,water_DO_%
 ODO,sat,water_DO_%
+RDO,%Sat,water_DO_%
 ODO,local,water_DO_local
 ODO,mg/L,water_DO_mgl
 ODOsat,%,water_DO_%
 ODO Conc,mg/L,water_DO_mgl
+RDO Conc,mg/L,water_DO_mgl
 Salinity,(psu),water_salinity_PSU
 Salinity,ppt,water_salinity_PSU
 SAL-PSU,SAL-PSU,water_salinity_PSU
