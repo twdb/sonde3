@@ -66,3 +66,4 @@ TAL,�g/L,water_bga_pe
 TAL,ug/L,water_bga_pe
 Chlorophyll,RFU,chlorophyll_a_rfu
 Chlorophyll,�g/L,chlorophyll_a
+Actual Conductivity,µS/cm,water_conductivity_uS/cm
